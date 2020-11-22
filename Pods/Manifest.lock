@@ -1,0 +1,48 @@
+PODS:
+  - Alamofire (4.9.1)
+  - Kingfisher (4.9.0)
+  - RxCocoa (5.1.1):
+    - RxRelay (~> 5)
+    - RxSwift (~> 5)
+  - RxRelay (5.1.1):
+    - RxSwift (~> 5)
+  - RxSwift (5.1.1)
+  - SwiftLint (0.41.0)
+  - SwiftMessages (8.0.3):
+    - SwiftMessages/App (= 8.0.3)
+  - SwiftMessages/App (8.0.3)
+  - Toast-Swift (5.0.1)
+
+DEPENDENCIES:
+  - Alamofire (~> 4.9.1)
+  - Kingfisher (~> 4.9.0)
+  - RxCocoa (~> 5.1.0)
+  - RxSwift (~> 5.1.0)
+  - SwiftLint
+  - SwiftMessages (~> 8.0.3)
+  - Toast-Swift (~> 5.0.1)
+
+SPEC REPOS:
+  trunk:
+    - Alamofire
+    - Kingfisher
+    - RxCocoa
+    - RxRelay
+    - RxSwift
+    - SwiftLint
+    - SwiftMessages
+    - Toast-Swift
+
+SPEC CHECKSUMS:
+  Alamofire: 85e8a02c69d6020a0d734f6054870d7ecb75cf18
+  Kingfisher: 64539b51826b778206daa6ed815d12653caa69dd
+  RxCocoa: 32065309a38d29b5b0db858819b5bf9ef038b601
+  RxRelay: d77f7d771495f43c556cbc43eebd1bb54d01e8e9
+  RxSwift: 81470a2074fa8780320ea5fe4102807cb7118178
+  SwiftLint: c585ebd615d9520d7fbdbe151f527977b0534f1e
+  SwiftMessages: 063ec9ffea3ffa7d17ba595157a9ec78e4fe045f
+  Toast-Swift: 9b6a70f28b3bf0b96c40d46c0c4b9d6639846711
+
+PODFILE CHECKSUM: 0d425e92dae9c45a7facd05644772edcec61e758
+
+COCOAPODS: 1.10.0
