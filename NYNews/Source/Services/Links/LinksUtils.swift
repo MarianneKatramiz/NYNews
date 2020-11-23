@@ -25,7 +25,7 @@ class LinksUtils: NSObject {
     /// API End Point
     enum Endpoint: String {
         // Popular News Api
-        case popularNewsApi = "svc/mostpopular/v2/mostviewed/all-sections/"
+        case popularNewsApi = "svc/mostpopular/v2/viewed/"
     }
     
     /// End Point API Call for Popular News
